@@ -1,11 +1,15 @@
 ## Strike Zone 3D
 Generate real-time 3d baseball trajectory information
 
-Run on Taichung Intercontinental Baseball Stadium (vs. Trackman)
-<img src="resource/231021_track3d_demo1_1.gif" alt="drawing" width="720"/>
+#### Run on Taichung Intercontinental Baseball Stadium (vs. Trackman)
+<img src="resource/231021_track3d_demo1_1.gif" alt="drawing" width="960"/>
 
-System controller on website user interface 
-<img src="resource/system_controller_ui.png" alt="drawing" width="720"/>
+#### Run on outdoor bullpen (protable)
+<img src="resource/bullpen_1.jpg" alt="drawing" height="400"/>
+<img src="resource/bullpen_2.gif" alt="drawing" width="960"/>
+
+#### System controller on website user interface 
+<img src="resource/system_controller_ui.png" alt="drawing" width="960"/>
 
 
 ## Features
