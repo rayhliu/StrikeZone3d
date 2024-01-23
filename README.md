@@ -10,7 +10,7 @@ Generate real-time 3d baseball trajectory information
 #### Run on Taichung Intercontinental Baseball Stadium (vs. Trackman)
 <img src="resource/231021_track3d_demo1_1.gif" alt="drawing" width="960"/>
 
-#### Run on outdoor bullpen (protable)
+#### Run on outdoor bullpen (Protable Version)
 <div style="display:inline-block">
     <img src="resource/bullpen_2.gif" alt="drawing" height="360"/>
     <img src="resource/bullpen_1.jpg" alt="drawing" height="360"/>
