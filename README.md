@@ -1,4 +1,4 @@
-## Strike Zone 3D
+# Strike Zone 3D
 Generate real-time 3d baseball trajectory information
 
 ## Features
