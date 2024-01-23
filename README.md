@@ -12,8 +12,8 @@ Generate real-time 3d baseball trajectory information
 
 #### Run on outdoor bullpen (Protable Version)
 <div style="display:inline-block">
-    <img src="resource/bullpen_2.gif" alt="drawing" height="360"/>
-    <img src="resource/bullpen_1.jpg" alt="drawing" height="360"/>
+    <img src="resource/bullpen_2.gif" alt="drawing" height="300"/>
+    <img src="resource/bullpen_1.jpg" alt="drawing" height="300"/>
 </div>
 
 #### System controller on website user interface 
