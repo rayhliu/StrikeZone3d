@@ -5,8 +5,10 @@ Generate real-time 3d baseball trajectory information
 <img src="resource/231021_track3d_demo1_1.gif" alt="drawing" width="960"/>
 
 #### Run on outdoor bullpen (protable)
-<img src="resource/bullpen_1.jpg" alt="drawing" height="400"/>
-<img src="resource/bullpen_2.gif" alt="drawing" width="960"/>
+<div style="display:inline-block">
+    <img src="resource/bullpen_2.gif" alt="drawing" height="360"/>
+    <img src="resource/bullpen_1.jpg" alt="drawing" height="360"/>
+</div>
 
 #### System controller on website user interface 
 <img src="resource/system_controller_ui.png" alt="drawing" width="960"/>
